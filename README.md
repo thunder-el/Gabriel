@@ -1,3 +1,3 @@
 # Gabriel
-Aspirante a programador
-Estudante da Cruzeiro do Sul
+Aspirante a programador; 
+ Estudante da Cruzeiro do Sul
